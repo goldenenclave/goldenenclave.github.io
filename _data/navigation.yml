@@ -1,12 +1,12 @@
-- name: Detailed View
-  link: /detailedview/
+- name: Members
+  link: /membersview/
   new_window: false
   highlight: false
-- name: Summary View
-  link: /summaryview/
+- name: Enter Your Plot
+  link: /enteryourplot/
   new_window: false
   highlight: false
-- name: Dues View
-  link: /duesview/
+- name: Pay Membership
+  link: /paymembership/
   new_window: false
   highlight: false
